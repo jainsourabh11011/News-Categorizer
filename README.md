@@ -10,7 +10,7 @@ The proposed methodology contains many modules as described in the above flowcha
 ### Output: Summarization and tagging of news article
 
 The algorithms used in this model are shown in the above figure. The steps are as follows:
-![GitHub Logo](/images/logo.png)
+                         ![image](https://user-images.githubusercontent.com/43853903/95636470-dccce400-0aac-11eb-8655-bcd6ae5c0197.png)
 ### 1) Image as an input
 Image inputs are provided to the model. The input images can be of varied sizes. They are converted to the same fixed size to enhance the efficiency of processing and reduce the time of execution.
 
